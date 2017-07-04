@@ -1,11 +1,13 @@
 # FlashAir_Timestamp
-Get and set timestamp of using internal clock
+This library provides getting timestamp from an internal clock of FlashAir.  
+Tested with W-04 and using NICT time server.
 
 
 How to use
 ====================
-`local ts = require "FaTimestamp"`
+Write this lines in your Lua program.
 
-`local timestamp = getTimestamp()`
+`local ts = require "FaTimestamp"  
+local timestamp = getTimestamp()`
 
 
