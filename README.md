@@ -7,7 +7,7 @@ How to use
 ====================
 Write this lines in your Lua program.
 
-`local ts = require "FaTimestamp"  
-local timestamp = getTimestamp()`
+    local ts = require "FaTimestamp"
+    local timestamp = getTimestamp()
 
 
