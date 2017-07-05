@@ -11,3 +11,9 @@ Write this lines in your Lua program.
     local timestamp = getTimestamp()
 
 
+License
+====================
+Microsoft Public License
+
+https://opensource.org/licenses/MS-PL
+
